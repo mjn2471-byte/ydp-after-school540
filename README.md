@@ -1,4 +1,4 @@
-[통합포털.index..html](https://github.com/user-attachments/files/24966482/index.html)
+(https://github.com/user-attachments/files/24966482/index.html)
 <!DOCTYPE html>
 <html lang="ko">
 <head>
